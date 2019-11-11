@@ -1,2 +1,2 @@
-# geojson-to-choropleth-map
-Create 3D Choropleth Map using Polygon and MultiPolygon data
+# Geojson to Choropleth map
+Create 3D Choropleth Map in Unity using Polygon and MultiPolygon data
