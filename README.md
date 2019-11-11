@@ -17,6 +17,6 @@ Create 3D Choropleth Map in Unity using Polygon and MultiPolygon data
 ## Game
 * Open and run Choropleth scene
 * Copy JSON path to first text field
-* Set GeoJSON propertie names and scale values
+* Set GeoJSON property names and scale values
 * Create
 * Rotate Camera with Alt and mouse keys
