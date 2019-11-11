@@ -7,6 +7,7 @@ Create 3D Choropleth Map in Unity using Polygon and MultiPolygon data
 * [Extrusion](https://github.com/knapeczadam/Unity-Procedural-Examples-Updated) - copy master folder to Assets
 * [ReadJSON](https://github.com/mtschoen/JSONObject) - copy master folder to Assets
 * [ReadGeoJSON](https://github.com/timokorkalainen/Unity-GeoJSONObject) - copy master folder to Assets
+* [Newtonsoft](https://github.com/JamesNK/Newtonsoft.Json/releases) - download .zip, extract Bin/net35/Newtonsoft.Json.dll to Assets
 * Replace standard file GeometryObjects.cs of GeoJSONObject Core
 
 ## Data
