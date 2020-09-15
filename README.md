@@ -1,6 +1,8 @@
 # GeoJSON to Choropleth map in Unity
 Create 3D Choropleth Map in Unity using Polygon and MultiPolygon data
 
+![alt text](https://raw.githubusercontent.com/stepanradaman/geojson-to-choropleth-map/master/Preview.png)
+
 ## Installation
 * Import Choropleth package (extract Choropleth folder to Assets)
 * [Triangulation](https://github.com/rslnautic/TriangleNet-Unity) - copy master folder to Assets 
